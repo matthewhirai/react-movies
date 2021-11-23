@@ -1,7 +1,7 @@
 import React from "react";
 import RMDBLogo from '../../images/react-movie-logo.svg';
-import TMDBLogo from '../../images/tmdblogo.svg';
-import { Wrapper, Content, LogoImg, TMDBLogoIMg } from "./Header.styles";
+import TMDBLogo from '../../images/tmdb_logo.svg';
+import { Wrapper, Content, LogoImg, TMDBLogoImg } from "./Header.styles";
 
 const Header = () => (
     <Wrapper>
