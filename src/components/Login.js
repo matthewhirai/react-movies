@@ -30,7 +30,7 @@ const Login = () => {
                 username, 
                 password
             )
-            console.log(sessionsId)
+
             setUser({ sessionsId: sessionsId.session_id, username })
 
             navigate("/");
