@@ -46,7 +46,7 @@ const MovieInfo = ({ movie }) => {
                     </div>
                     {user && (
                         <div>
-                            <p>Rate Move</p>
+                            <p>Rate Movie</p>
                             <Rate callback={handleRating}/>
                         </div>
                     )}   
