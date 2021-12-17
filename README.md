@@ -2,6 +2,13 @@
 
 A React application that allows users to search for movie titles and get info about it, ranging from the synopsis to cast members to rating!
 
+## Demo
+https://user-images.githubusercontent.com/61099117/146499995-00eb7ed4-f143-4243-a9df-19821c4b9f2f.mp4
+
+
+
+
+
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
