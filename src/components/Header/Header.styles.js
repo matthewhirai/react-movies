@@ -19,6 +19,11 @@ export const Content = styled.div`
         text-decoration: none;
     }
 
+    .loggedin {
+        color: #23DC3D;
+        margin-right: 100px;
+    }
+
     .login {
         margin-right: 105px;
 
