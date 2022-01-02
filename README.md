@@ -1,6 +1,6 @@
-# [ReactMovies](https://tmdb-react-movies.netlify.app/)
+# ReactMovies
 
-A React application that allows users to search for movie titles and get info about it, ranging from the synopsis to cast members to rating!
+A React application that allows users to search for movie titles and get info about it, ranging from the synopsis to cast members to rating! You can check the website [here](https://tmdb-react-movies.netlify.app/).
 
 ## Demo
 https://user-images.githubusercontent.com/61099117/146499995-00eb7ed4-f143-4243-a9df-19821c4b9f2f.mp4
